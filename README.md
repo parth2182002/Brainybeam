@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/8074de9b-f616-4686-91db-4e42f91c45a5)
-
+127.0.0.1:8000/admin/
 sqlboiler logo
 License GoDoc Slack ActionsCI Go Report Card
 
