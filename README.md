@@ -13,13 +13,9 @@ Community members are encouraged to help each other with reported issues.
 Alternatives
 If looking for an actively maintained alternative, consider the following:
 
-1. Bob - https://github.com/stephenafamo/bob
-Bob is very similar to SQLBoiler. It was directly inspired by SQLBoiler and was created by a maintainer of SQLBoiler.
-
 A comparison can be found here: https://bob.stephenafamo.com/vs/sqlboiler/.
 
-2. sqlc - https://github.com/sqlc-dev/sqlc
-sqlc is a command line tool that generates type-safe code from SQL.
+2.sqlc is a command line tool that generates type-safe code from SQL.
 It is not an ORM but for many use cases it can be a good alternative to SQLBoiler.
 
 About SQLBoiler
